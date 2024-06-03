@@ -1,0 +1,12 @@
+modules/ALU.v
+modules/ALUControl.v
+modules/Branch2Shift.v
+modules/ControlUnit.v
+modules/Core.v
+modules/DataMemory.v
+modules/InstructionMemory.v
+modules/Jump2Shift.v
+modules/NBitMux.v
+modules/PC.v
+modules/RegisterFile.v
+modules/SignExtender.v
