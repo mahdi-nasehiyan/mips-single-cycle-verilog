@@ -36,6 +36,11 @@ module DataMemory (addr, write_data, read_data, clk, reset, MemRead, MemWrite, d
 				DMemory[2] = 3;
 				DMemory[3] = 2;
 				DMemory[4] = 8;
+				DMemory[5] = 12;
+				DMemory[6] = 4;
+				DMemory[7] = 19;
+				DMemory[8] = 6;
+				DMemory[9] = 3;
 
 			end
 		else
